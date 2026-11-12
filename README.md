@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Moh Aun 👋
 
-<!--
-**moh-aun/moh-aun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | Generative AI | LLMs | Agentic AI
 
-Here are some ideas to get you started:
+I'm an AI/ML Engineer with 5+ years of experience working on machine learning, intelligent applications, and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Interests
+- Generative AI and Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Natural Language Processing
+- Machine Learning and Deep Learning
+- Cloud-based AI Applications
+
+### Technologies
+- **Languages:** Python, SQL
+- **AI/ML:** PyTorch, TensorFlow, Scikit-learn
+- **Generative AI:** LangChain, LlamaIndex, RAG
+- **Cloud:** AWS, Azure, Google Cloud
+- **Tools:** Docker, Kubernetes, MLflow, Git
+
+### Currently Exploring
+- Advanced RAG architectures
+- Multi-agent AI applications
+- Production-ready LLM systems
+- Machine Learning Engineering
+
+### Connect With Me
+- LinkedIn: [Add your LinkedIn URL here]
+- GitHub: [Your GitHub profile URL]
+
+---
+*Building practical AI solutions, one project at a time.*
